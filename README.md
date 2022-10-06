@@ -1,0 +1,6 @@
+- ##  :smirk: Olá, sou a prof. Adriana :exclamation:
+- 
+-:triangular_ruler: Sou professora de matemática, educação financeira e programação.
+- :page_facing_up: Gosto de estudar e fazer cursos para me manter atualiada sempre.
+- 
+- 📫 Qualquer dúvida, entre em contato comigo adriana.novak@escola.pr.gov.br
