@@ -1,3 +1,5 @@
+- ![Snake animation](https://github.com/AdrianaNovak/AdrianaNovak/blob/output/github-contribution-grid-snake.svg)
+
 - ##  :smirk: Olá, sou a prof. Adriana :exclamation:
 - 
 -:triangular_ruler: Sou professora de matemática, educação financeira e programação.
